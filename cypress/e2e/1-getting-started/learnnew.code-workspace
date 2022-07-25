@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../cypress-example/cypress-typescript-template"
+		},
+		{
+			"path": "../../../../../cypress-example/Cypress-Framework"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "learnnew"
+	}
+}
